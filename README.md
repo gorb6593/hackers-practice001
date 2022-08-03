@@ -1,3 +1,3 @@
 # hackers-practice001
 
-//hi
+hello
